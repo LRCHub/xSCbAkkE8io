@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "バニー (すりぃ ver.)",
+  "base_artist": "すりぃ",
+  "createdAt": "2026-02-17T02:34:06.814495Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バニー (すりぃ ver.)",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/01_バニー_(すりぃ_ver.)_すりぃ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バニー",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/02_バニー_すりぃ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ダスト・バニー・ライド・オン",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": false,
+      "path": "select/03_ダスト・バニー・ライド・オン_Thee_Michelle_Gun_Elephant.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ユニバーサル・バニー",
+      "artist": "シェリル・ノーム starring May’n",
+      "has_synced": true,
+      "path": "select/04_ユニバーサル・バニー_シェリル・ノーム_starring_May’n.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ユニバーサル・バニー",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/05_ユニバーサル・バニー_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ユニバーサル・バニー",
+      "artist": "シェリル・ノーム",
+      "has_synced": true,
+      "path": "select/06_ユニバーサル・バニー_シェリル・ノーム.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ユニバーサル・バニー",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": true,
+      "path": "select/07_ユニバーサル・バニー_シェリル・ノーム_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ユニバーサル。バニー",
+      "artist": "May’n",
+      "has_synced": true,
+      "path": "select/08_ユニバーサル。バニー_May’n.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ユニバーサル・バニー",
+      "artist": "May'n",
+      "has_synced": true,
+      "path": "select/09_ユニバーサル・バニー_May'n.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ユニバーサル・バニー",
+      "artist": "シェリル・ノーム starring May'n",
+      "has_synced": true,
+      "path": "select/10_ユニバーサル・バニー_シェリル・ノーム_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ユニバーサル・バニー",
+      "artist": "ワルキューレ (JUNNA, 鈴木みのり, 安野希世乃, 東山奈央, 西田望見)",
+      "has_synced": true,
+      "path": "select/11_ユニバーサル・バニー_ワルキューレ_(JUNNA,_鈴木みのり,_安野希世乃,_東山奈央,_西田望見).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ユニバーサル·バニー",
+      "artist": "シェリル·ノーム starring May'n",
+      "has_synced": true,
+      "path": "select/12_ユニバーサル·バニー_シェリル·ノーム_starring_May'n.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ユニバーサル・バニー",
+      "artist": "シェリル・ノーム starring May'n/ランカ・リー=中島愛",
+      "has_synced": true,
+      "path": "select/13_ユニバーサル・バニー_シェリル・ノーム_starring_May'n_ランカ・リー=中島愛.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ユニバーサル・バニー",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/14_ユニバーサル・バニー_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ユニバーサル・バニー",
+      "artist": "ノーム starring May’n",
+      "has_synced": true,
+      "path": "select/15_ユニバーサル・バニー_ノーム_starring_May’n.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バニー",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/pl_01_バニー_すりぃ.txt"
+    }
+  ]
+}
